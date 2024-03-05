@@ -1,0 +1,73 @@
+.navbar {
+  background-color: brown;
+  justify-content: center;
+  text-align: center;
+}
+
+.active {
+  background-color: brown;
+}
+
+.thanking-customers-section {
+  background-color: #d0b2001a;
+}
+
+.thanking-customers-section-heading {
+  color: #183b56;
+  font-family: "Roboto";
+  font-size: 28px;
+  font-weight: 700;
+}
+
+.thanking-customers-section-description {
+  color: #ff6289;
+  font-family: "Roboto";
+  font-size: 16px;
+}
+
+.thanking-customers-section-img {
+  width: 100vh;
+  margin-bottom: 20px;
+}
+
+.main-heading {
+  color: black;
+  font-size: 60px;
+  font-weight: 300;
+}
+
+.para {
+  color: black;
+  font-size: 15px;
+  text-align: center;
+  justify-content: center;
+}
+
+.custom-button {
+  background-color: hsl(349, 61%, 47%);
+  color: white;
+  width: 80px;
+  height: 30px;
+  border-style: none;
+}
+
+.healthy-food-section {
+  background-color: #f9fbfe;
+}
+
+.healthy-food-section-img {
+  width: 270px;
+}
+
+.healthy-food-section-heading {
+  color: #183b56;
+  font-family: "Roboto";
+  font-size: 50pxpx;
+  font-weight: 700;
+}
+
+.healthy-food-section-description {
+  color: #5a7184;
+  font-family: "Roboto";
+  font-size: 16px;
+}
